@@ -4,7 +4,7 @@
     "sources": [
         "estilos.scss",
         "parciales/_header.scss",
-        "parciales/_sectionindex.scss",
+        "parciales/_sectionmain.scss",
         "parciales/_nosotros.scss",
         "parciales/_flota.scss",
         "parciales/_sucursales.scss",
